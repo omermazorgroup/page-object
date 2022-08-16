@@ -1,0 +1,11 @@
+.pytest_cache/
+
+**/page_object_playwright/pytest_cache/
+**/page_object_playwright/page_models/__pycache__/
+**/page_object_playwright/__pycache__/
+**/page_object_playwright/allure_result/
+
+**/page_object_selenium/pytest_cache/
+**/page_object_selenium/page_models/__pycache__/
+**/page_object_selenium/__pycache__/
+**/page_object_selenium/allure_result/
